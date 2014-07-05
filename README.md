@@ -1,7 +1,7 @@
-sunflower-cryptography
+Sunflower Steganography
 ======================
 
-Javascript-based Cryptography tools, experiments, and musings.
+I want my stenographic materials to be as beautiful and interesing as sunflowers. I want them to be out in the public. I want people to walk up to them, smile at them, observe them, contemplate them. I want some people to be clueless. I want some people to know there is something deeper inside. I want to bridge digital stenography with the physical world in this way. And I want to do it in Javascript.
 
 So far, all I've made is a tool to convert text into a binary image [(Live Demo)](http://www.sergiopantoja.com/dev/sunflower-cryptography/text-to-binary-image.html). Screenshot below:
 
